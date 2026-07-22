@@ -1,0 +1,1 @@
+print("This is an advanced version of previous one")
